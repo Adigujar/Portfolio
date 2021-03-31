@@ -1,0 +1,26 @@
+.profile-pic{
+    position: relative;
+    left: 50px;
+    height: 250px;
+    border-radius: 150px;
+}
+
+.bg1{
+    background-color: rgb(43, 47, 48);
+}
+.font1{
+    position: relative;
+    left: 100px;  
+    color: white;
+}
+
+.bt1{
+    position: relative;
+    top: 10px;
+    
+}
+
+.next1{
+    position: relative;
+    left: 50px;
+}

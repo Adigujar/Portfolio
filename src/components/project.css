@@ -1,0 +1,25 @@
+.bgf{
+    background-color: turquoise;
+}
+
+.pos1{
+    position: relative;
+    left: 10px;
+}
+
+.pos2{
+    position: relative;
+    left: 20px;
+}
+
+.bor{
+    border-bottom: 5px;
+    border-color: rgb(25, 26, 25);
+    border-bottom-style: solid ;
+    
+}
+
+.btn1{
+    background-color: rgb(167, 207, 22);
+    border-radius: 2px;
+}

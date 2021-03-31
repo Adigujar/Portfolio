@@ -1,0 +1,43 @@
+.center{
+    align-self: center;
+    
+}
+
+.bgs{
+    background-color: rgb(17, 17, 16);
+    color: white;
+}
+
+.bgT{
+    background-color: rgb(238, 205, 202);
+}
+
+.bgsb{
+    background-color: rgb(63, 57, 63);
+}
+
+.slider {
+    position: relative;
+    top: 6px;
+    width: 30%;
+    height: 25px;
+    
+}
+
+.lf1{
+    position: relative;
+    left: 10px;
+}
+
+.lf2{
+    position: relative;
+    left: 20px;
+}
+.lf3{
+    position: relative;
+    left: 6px;
+}
+.skills{
+    height: 100px;
+    width: 100px;
+}
