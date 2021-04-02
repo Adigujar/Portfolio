@@ -7,9 +7,10 @@ import  './about.css'
 function About() {
     return (
         
-        <div className="row w-100 p-3 bg1 ">
+        <div >
+           <div className="row w-100 p-3 bg1 ">
             <br></br>
-           <div>
+           <div >
                <br></br>
                <br></br>
               <img className="profile-pic" src={ProPic} alt="Aditya Gujar Profile pic" />
@@ -66,13 +67,14 @@ function About() {
                     </div>  
                 </div>
             </div>
-            <p className="bt1 center ">
+            </div>
+            
+            
+           </div>
+           <p className="bt1  center">
                      <a  href="/"><i class="fas fa-3x fa-chevron-circle-left"></i></a>
                      <a  className="next1" href="/skills"><i class="fas fa-3x fa-chevron-circle-right"></i></a>
             </p>
-            
-           </div>
-           
         </div>
 
      
