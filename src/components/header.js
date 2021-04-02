@@ -9,7 +9,7 @@ function Header() {
         <div>
            <div>
                
-              <h1 className="tx1"> I'm Aditya Gujar.</h1><br></br>
+              <h1 className="tx1"> I'm Aditya Gujar.</h1><br></br><br></br>
               <h3 className="top"> I'm a Full Stack Developer(MERN).
               <br></br>Excited to be at the deployment phase of my new career as a web developer. <br></br>
               
