@@ -48,6 +48,25 @@ function Projects() {
                         <a href="https://github.com/Adigujar/Student-Portal_frontend" target="_blank" rel="noreferrer">
                         <button type="submit" className="btn btn-primary btn-sm pos2">Code-frontend</button></a>
                         </div>
+                        
+                        <div className="bor">
+                        <h4>
+                            <a href="https://606de12e0a14100d5ade700d--happy-euler-1bb893.netlify.app/" target="_blank" rel="noreferrer">
+                                Register-Login-ResetPassword
+                            </a>
+                        </h4>
+                        <p>
+                            This Web app is demonstration of a user to resigerter/login/change password. The password is protected <br></br>
+                            in database using encryption. The user can change password if forgotten by sending a verfiction link<br></br>
+                            to his resigerter email.
+                        </p>
+                        <a href="https://606de12e0a14100d5ade700d--happy-euler-1bb893.netlify.app/" target="_blank" rel="noreferrer">
+                        <button type="submit" className="btn btn-primary btn-sm "> DEMO</button></a>
+                        <a href="https://github.com/Adigujar/login-reset-password" target="_blank" rel="noreferrer">
+                        <button type="submit" className="btn btn-primary btn-sm pos1">Code-backend</button></a>
+                        <a href="https://github.com/Adigujar/login-reset-password-frontend" target="_blank" rel="noreferrer">
+                        <button type="submit" className="btn btn-primary btn-sm pos2">Code-frontend</button></a>
+                        </div>
                     </div>
                 </div>
             </div>
