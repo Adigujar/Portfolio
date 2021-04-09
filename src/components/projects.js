@@ -110,6 +110,20 @@ function Projects() {
                         </div>
                         <div className="bor pos3">
                         <h4>
+                            <a href="https://adoring-easley-d44f10.netlify.app/pan_page" target="_blank" rel="noreferrer">
+                                Pan-form(HTML)
+                            </a>
+                        </h4>
+                        <p>
+                            This is simple PAN form built using only HTML .
+                        </p>
+                        <a href="https://adoring-easley-d44f10.netlify.app/pan_page" target="_blank" rel="noreferrer">
+                        <button type="submit" className="btn btn-primary btn-sm "> DEMO</button></a>
+                        <a href="https://github.com/Adigujar/PAN-FORM" target="_blank" rel="noreferrer">
+                        <button type="submit" className="btn btn-primary btn-sm pos1">Code</button></a>
+                        </div>
+                        <div className="bor pos3">
+                        <h4>
                             <a href="https://admiring-meitner-930e9b.netlify.app/resume" target="_blank" rel="noreferrer">
                                 Resume(HTML-CSS)
                             </a>
