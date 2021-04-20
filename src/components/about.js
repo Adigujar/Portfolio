@@ -43,7 +43,7 @@ function About() {
                  <div className="columns ">
                     <p>
                         <br></br>
-                        <a href="https://drive.google.com/file/d/1NJ3htvWsq5gcLBVNtvHj1gsOQNc7-vbu/view?usp=sharing" target="_blank" rel="noreferrer">
+                        <a href="https://drive.google.com/file/d/1_bfuRZNkQ3e1EbShepxXPPxC5PvRft81/view?usp=sharing" target="_blank" rel="noreferrer">
                        <button className="button  btn btn-primary bg-primary" onClick=""><i className="fa fa-download"></i>Download Resume</button>
                        </a>
                     </p>
